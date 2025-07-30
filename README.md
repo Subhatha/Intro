@@ -24,8 +24,6 @@ Tools: `Premiere Pro`, `DaVinci Resolve`, `After Effects`, `DJI Drones`
 
 - 🔗 **Portfolio**: [subhatha.github.io/Portforlio](https://subhatha.github.io/Portforlio/)
 - 📧 **Email**: [kaumudnet@gmail.com](mailto:kaumudnet@gmail.com)
-- 📸 **Instagram** *(for drone work)*: [Insert handle if you want it listed)*
-- 💼 **LinkedIn**: [Insert your LinkedIn if you want it included]*
 
 ---
 
