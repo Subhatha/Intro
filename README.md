@@ -1,36 +1,32 @@
-# 👋 Hey, I'm Subhatha Senanayake
+# 👋 Hey, I'm Subhatha
 
-I'm a programmer who loves building things that solve real problems — from sleek web apps to efficient automation tools. When I’m not deep in code, I’m probably flying a drone, capturing cinematic footage, or cutting it all together in post.
+I'm a programmer with a passion for solving problems through code — whether it’s building full-stack applications, automating tasks, or experimenting with new technologies. On the creative side, I run a drone videography and video editing side hustle, blending tech with storytelling.
 
 ## 💻 What I Do
 
-- 👨‍💻 **Software Development**  
-  Building full-stack apps, scripting automation, and constantly learning new tech.  
-  Languages: `JavaScript`, `Python`, `TypeScript`, `Go`  
-  Frameworks: `React`, `Node.js`, `Next.js`, `Express`, `TailwindCSS`
+### 👨‍💻 Software Development
+- Building responsive, full-stack web apps
+- Automating boring stuff with code
+- Exploring new tools & technologies  
+Languages: `JavaScript`, `Python`, `HTML`, `CSS`  
+Frameworks & Tools: `React`, `Node.js`, `Tailwind`, `Express`, `Git`
 
-- 🛠️ **Currently Working On**  
-  [Optional: your current project or tech stack]  
-  Or: Automating things I’m too lazy to do manually.
+### 🎥 Drone Videography & Video Editing
+- Capturing aerial footage with a cinematic eye  
+- Editing videos that tell a story  
+Tools: `Premiere Pro`, `DaVinci Resolve`, `After Effects`, `DJI Drones`
 
-- 🎥 **Side Hustle: Drone Videography & Video Editing**  
-  Shooting cinematic drone footage, editing with precision, and bringing stories to life visually.  
-  Tools: `DaVinci Resolve`, `Premiere Pro`, `After Effects`, `DJI Drones`
+## 🚧 Currently Working On
+- Enhancing my portfolio
+- Learning more about backend infrastructure and deployment
 
-## 🧠 Always Learning
+## 🌐 Portfolio & Contact
 
-- Cloud, DevOps, and scaling apps
-- Better storytelling through code & visuals
-- Mixing creativity with logic
-
-
-## 📫 Get in Touch
-
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- Email: Kaumudnet@gmail.com (mailto:your@email.com)
-- Instagram (drone work): [@t_o_u_r_i_o](https://instagram.com/yourhandle)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 **Portfolio**: [subhatha.github.io/Portforlio](https://subhatha.github.io/Portforlio/)
+- 📧 **Email**: [kaumudnet@gmail.com](mailto:kaumudnet@gmail.com)
+- 📸 **Instagram** *(for drone work)*: [Insert handle if you want it listed)*
+- 💼 **LinkedIn**: [Insert your LinkedIn if you want it included]*
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! Feel free to connect or collaborate 🚀
